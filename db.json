@@ -1,0 +1,712 @@
+{
+  "bucketlist": [
+    {
+      "id": "b001",
+      "destination": {
+        "place": "Kerala",
+        "country": "India",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD...",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "Backwaters and nature",
+        "dateAdded": "2025-06-29",
+        "targetDate": "2025-07-15",
+        "notes": "Plan houseboat trip",
+        "rating": 5
+      }
+    },
+    {
+      "id": "54bd",
+      "destination": {
+        "place": "kochi",
+        "country": "indiia",
+        "image": "/uploads/1759567710482_Screenshot (113).png",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "gfchjk",
+        "dateAdded": "2025-10-04",
+        "targetDate": "2025-10-15",
+        "notes": "gfhkjlk;",
+        "rating": 3
+      }
+    },
+    {
+      "id": "d358",
+      "destination": {
+        "place": "",
+        "country": "",
+        "image": "",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "14fe",
+      "destination": {
+        "place": "dxtfyguh",
+        "country": "vhghjkjl",
+        "image": "/uploads/1759568973259_argentina.jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "bnjk",
+        "dateAdded": "2025-10-04",
+        "targetDate": "2025-10-13",
+        "notes": "bkjkl",
+        "rating": 3
+      }
+    },
+    {
+      "id": "6c8d",
+      "destination": {
+        "place": "fyguih",
+        "country": "bjkhnjmlk",
+        "image": "",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "nkml,",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "ff32",
+      "destination": {
+        "place": "fsdgzbfvn",
+        "country": "",
+        "image": "",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "ed87",
+      "destination": {
+        "place": "dfszdgb",
+        "country": "fyjk",
+        "image": "",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "bhknjlkml",
+        "dateAdded": "2025-10-04",
+        "targetDate": "2025-10-13",
+        "notes": " bn,m.,/",
+        "rating": 3
+      }
+    },
+    {
+      "id": "82dd",
+      "destination": {
+        "place": "v nbm,",
+        "country": "bnjklm,l",
+        "image": "",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "vbhklm",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "jhkjklm;l",
+        "rating": 3
+      }
+    },
+    {
+      "id": "a162",
+      "destination": {
+        "place": "fghj",
+        "country": "fkjl",
+        "image": "",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "hgjkhjlk",
+        "dateAdded": "2025-10-04",
+        "targetDate": "2025-10-03",
+        "notes": "ghjkhjl;",
+        "rating": 4
+      }
+    },
+    {
+      "id": "11f6",
+      "destination": {
+        "place": "sfzdbf",
+        "country": "sxgf",
+        "image": "",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "gdsbcfxvdx",
+        "dateAdded": "2025-10-04",
+        "targetDate": "2025-10-11",
+        "notes": "vsdzzzzzzzzzzzzzzzzzzzzzzzzz",
+        "rating": 5
+      }
+    },
+    {
+      "id": "9bd0",
+      "destination": {
+        "place": "d",
+        "country": "",
+        "image": "",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "cc81",
+      "destination": {
+        "place": "fs",
+        "country": "",
+        "image": "",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "794f",
+      "destination": {
+        "place": "gae",
+        "country": "",
+        "image": "",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "28f3",
+      "destination": {
+        "place": "cvx",
+        "country": "",
+        "image": "",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "c2c3",
+      "destination": {
+        "place": "egypt",
+        "country": "egypt",
+        "image": "/uploads/1759571187844_egypt.jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "dazfsvd",
+        "dateAdded": "2025-10-04",
+        "targetDate": "2025-10-11",
+        "notes": "deafszs",
+        "rating": 7
+      }
+    },
+    {
+      "id": "d2d0",
+      "destination": {
+        "place": "scF",
+        "country": "das",
+        "image": "/uploads/1759571329144_pak.jpg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "cszz",
+        "rating": ""
+      }
+    },
+    {
+      "id": "2a0d",
+      "destination": {
+        "place": "vdz",
+        "country": "vz",
+        "image": "/uploads/1759571367663_ukraine.jpg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "f74a",
+      "destination": {
+        "place": "",
+        "country": "",
+        "image": "/uploads/1759571596367_egypt.jpg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "2628",
+      "destination": {
+        "place": "",
+        "country": "",
+        "image": "/uploads/1759572427472_egypt.jpg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "f73d",
+      "destination": {
+        "place": "",
+        "country": "",
+        "image": "/uploads/1759572582238_egypt.jpg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "0d77",
+      "destination": {
+        "place": "",
+        "country": "",
+        "image": "/uploads/1759572703220_egypt.jpg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "6040",
+      "destination": {
+        "place": "vjhkl",
+        "country": "",
+        "image": "/uploads/1759572753031_egypt.jpg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "8fff",
+      "destination": {
+        "place": "dfszdgb",
+        "country": "india",
+        "image": "/uploads/1759572855487_egypt.jpg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": 5
+      }
+    },
+    {
+      "id": "23c0",
+      "destination": {
+        "place": "dfszdgb",
+        "country": "india",
+        "image": "/uploads/egypt.jpg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "",
+        "dateAdded": "2025-10-04",
+        "targetDate": "",
+        "notes": "",
+        "rating": ""
+      }
+    },
+    {
+      "id": "3866",
+      "destination": {
+        "place": "Cairo",
+        "country": "Egypt",
+        "image": "/uploads/egypt.jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "Ancient history and pyramids",
+        "dateAdded": "2025-10-04",
+        "targetDate": "2025-10-31",
+        "notes": "sdfgihjuioko",
+        "rating": 4
+      }
+    },
+    {
+      "id": "b307",
+      "destination": {
+        "place": "Lahore",
+        "country": "Pakisthan",
+        "image": "/uploads/pak.jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "cultural exploration of foods",
+        "dateAdded": "2025-10-04",
+        "targetDate": "2025-10-17",
+        "notes": "Explore lahore fort.",
+        "rating": 4
+      }
+    }
+  ],
+  "visitedHistory": [
+    {
+      "id": "v001",
+      "destination": {
+        "place": "Kerala",
+        "country": "India",
+        "image": "https://wallpaperaccess.com/full/1635203.jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "Backwaters and nature",
+        "dateAdded": "2025-06-29",
+        "targetDate": "2025-07-15",
+        "notes": "Houseboat trip was amazing",
+        "rating": 5
+      }
+    },
+    {
+      "id": "v002",
+      "destination": {
+        "place": "Delhi",
+        "country": "India",
+        "image": "https://www.mistay.in/travel-blog/content/images/2020/07/travel-4813658_1920.jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "Historical monuments",
+        "dateAdded": "2025-06-29",
+        "targetDate": "2025-08-03",
+        "notes": "Visited Red Fort and Qutub Minar",
+        "rating": 4
+      }
+    },
+    {
+      "id": "v003",
+      "destination": {
+        "place": "Manali",
+        "country": "India",
+        "image": "https://i.redd.it/lbbeb4dhtqx01.jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "Hills and adventure sports",
+        "dateAdded": "2025-09-05",
+        "targetDate": "2026-01-10",
+        "notes": "Try paragliding",
+        "rating": 4
+      }
+    },
+    {
+      "id": "v004",
+      "destination": {
+        "place": "Paris",
+        "country": "France",
+        "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "Romantic city",
+        "dateAdded": "2025-07-01",
+        "targetDate": "2025-07-20",
+        "notes": "Visit Eiffel Tower and Louvre",
+        "rating": 5
+      }
+    },
+    {
+      "id": "v005",
+      "destination": {
+        "place": "Bali",
+        "country": "Indonesia",
+        "image": "https://media.cntraveller.com/photos/63eb5a36b515236831979f64/16:9/w_2580,c_limit/GettyImages-1145042281.jpeg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "Beaches and culture",
+        "dateAdded": "2025-07-15",
+        "targetDate": "2025-08-05",
+        "notes": "Surf and temple visits",
+        "rating": 4
+      }
+    },
+    {
+      "id": "v006",
+      "destination": {
+        "place": "New York",
+        "country": "USA",
+        "image": "https://images.pexels.com/photos/771881/pexels-photo-771881.jpeg?cs=srgb&dl=architecture-buildings-city-771881.jpg&fm=jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "City tour and Broadway",
+        "dateAdded": "2025-08-01",
+        "targetDate": "2025-08-15",
+        "notes": "Times Square and Statue of Liberty",
+        "rating": 5
+      }
+    },
+    {
+      "id": "v007",
+      "destination": {
+        "place": "Tokyo",
+        "country": "Japan",
+        "image": "https://images2.alphacoders.com/947/947089.jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "Technology and culture",
+        "dateAdded": "2025-08-05",
+        "targetDate": "2025-08-25",
+        "notes": "Visit Shibuya and temples",
+        "rating": 4
+      }
+    },
+    {
+      "id": "v008",
+      "destination": {
+        "place": "London",
+        "country": "UK",
+        "image": "https://cdn.wallpapersafari.com/41/39/SadjUW.jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "Historical landmarks",
+        "dateAdded": "2025-08-10",
+        "targetDate": "2025-08-30",
+        "notes": "Visit Big Ben and London Eye",
+        "rating": 5
+      }
+    },
+    {
+      "id": "v009",
+      "destination": {
+        "place": "Sydney",
+        "country": "Australia",
+        "image": "https://s3-ap-southeast-2.amazonaws.com/cdn.wayfarer.travel/wp-content/uploads/2017/10/03103434/Sydney-category-lead.jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "Opera House and beaches",
+        "dateAdded": "2025-09-01",
+        "targetDate": "2025-09-15",
+        "notes": "Bondi Beach and Harbour Bridge",
+        "rating": 4
+      }
+    },
+    {
+      "id": "b307",
+      "destination": {
+        "place": "Lahore",
+        "country": "Pakisthan",
+        "image": "/uploads/pak.jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "cultural exploration of foods",
+        "dateAdded": "2025-10-04",
+        "targetDate": "2025-10-17",
+        "notes": "Explore lahore fort, Badshahi mosque",
+        "rating": 5
+      }
+    },
+    {
+      "id": "n010",
+      "destination": {
+        "place": "Greece",
+        "country": "Greece",
+        "image": "https://wallpaperaccess.com/full/42008.jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "Islands and history",
+        "dateAdded": "2025-10-15",
+        "targetDate": "2026-07-01",
+        "notes": "Visit Santorini and Athens",
+        "rating": 0
+      }
+    },
+    {
+      "id": "n007",
+      "destination": {
+        "place": "Dubai",
+        "country": "UAE",
+        "image": "https://wallpaperaccess.com/full/1286164.jpg",
+        "status": "Visited"
+      },
+      "tripInfo": {
+        "reason": "Modern architecture and shopping",
+        "dateAdded": "2025-10-01",
+        "targetDate": "2026-05-10",
+        "notes": "Visit Burj Khalifa and desert safari",
+        "rating": 4
+      }
+    }
+  ],
+  "notVisitedHistory": [
+    {
+      "id": "n001",
+      "destination": {
+        "place": "Goa",
+        "country": "India",
+        "image": "https://voiceofadventure.com/wp-content/uploads/2022/06/60d0813807aff-Baga_Beach_In_Goa.jpg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "Beaches and nightlife",
+        "dateAdded": "2025-09-01",
+        "targetDate": "2025-12-01",
+        "notes": "Plan local food tour",
+        "rating": 0
+      }
+    },
+    {
+      "id": "n002",
+      "destination": {
+        "place": "Rajasthan",
+        "country": "India",
+        "image": "https://miro.medium.com/max/3200/1*idBbkSkH4nXVIhDbA5QBEw.jpeg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "Deserts and culture",
+        "dateAdded": "2025-09-10",
+        "targetDate": "2026-02-20",
+        "notes": "Visit Jaipur and Jaisalmer",
+        "rating": 0
+      }
+    },
+    {
+      "id": "n003",
+      "destination": {
+        "place": "Switzerland",
+        "country": "Switzerland",
+        "image": "https://lykke-media.s3.amazonaws.com/media/destinations/Switzerland/Switzerland_featured_image_1920x1080_Shutterstock_1737099932.jpg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "Mountains and skiing",
+        "dateAdded": "2025-09-15",
+        "targetDate": "2026-01-10",
+        "notes": "Plan ski trip in Alps",
+        "rating": 0
+      }
+    },
+    {
+      "id": "n004",
+      "destination": {
+        "place": "Iceland",
+        "country": "Iceland",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "Northern lights",
+        "dateAdded": "2025-09-20",
+        "targetDate": "2026-02-01",
+        "notes": "Book Aurora tour",
+        "rating": 0
+      }
+    },
+    {
+      "id": "n005",
+      "destination": {
+        "place": "Japan",
+        "country": "Japan",
+        "image": "https://wallpaperaccess.com/full/1515612.jpg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "Culture and cuisine",
+        "dateAdded": "2025-09-25",
+        "targetDate": "2026-03-15",
+        "notes": "Visit Tokyo, Kyoto, Osaka",
+        "rating": 0
+      }
+    },
+    {
+      "id": "n009",
+      "destination": {
+        "place": "Brazil",
+        "country": "Brazil",
+        "image": "https://wallpaperaccess.com/full/46591.jpg",
+        "status": "Not Visited"
+      },
+      "tripInfo": {
+        "reason": "Carnival and beaches",
+        "dateAdded": "2025-10-10",
+        "targetDate": "2026-06-15",
+        "notes": "Visit Rio de Janeiro and Copacabana",
+        "rating": 0
+      }
+    }
+  ]
+}
